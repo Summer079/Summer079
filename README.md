@@ -27,3 +27,6 @@ I am a Software Engineer who loves to create innovative and efficient software s
 <a href="http://www.github.com/Summer079"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Summer079&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Summer079" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summer079&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+---
+[![](https://visitcount.itsvg.in/api?id=aldopaganijr&icon=0&color=0)](https://visitcount.itsvg.in)
